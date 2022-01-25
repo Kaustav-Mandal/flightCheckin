@@ -1,5 +1,5 @@
 ## Flight Checkin Application
-This Application uses only REST API calls for all the functionalities, there is no direct database query. 
+This Application uses only REST API calls for all the functionalities, there is no direct database query used. 
 
 ## Project Description
 This Spring Boot project uses Rest APIs exposed by the "flightReservation2022" application [https://github.com/Kaustav-Mandal/flightreservation2022.git]. 
